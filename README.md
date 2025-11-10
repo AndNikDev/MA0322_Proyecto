@@ -1,8 +1,5 @@
 # 🧭 Guía de Contribución – Proyecto Final MA0322 (Álgebra Lineal)
 
-````markdown
-# 🧭 Guía de Contribución – Proyecto Final MA0322 (Álgebra Lineal)
-
 ## 📘 Descripción general
 
 Este documento explica **cómo colaborar en el repositorio** del Proyecto Final MA0322. El objetivo es mantener un flujo de trabajo ordenado y evitar conflictos. Cada integrante desarrolla su módulo en su rama y carpeta asignada.
@@ -32,7 +29,6 @@ Este documento explica **cómo colaborar en el repositorio** del Proyecto Final 
 git checkout main
 git pull origin main
 ```
-````
 
 2. Crea/usa tu rama feature:
 
@@ -87,3 +83,4 @@ python -m py_compile modulos\triangulos\*.py
 ```
 
 ```
+
